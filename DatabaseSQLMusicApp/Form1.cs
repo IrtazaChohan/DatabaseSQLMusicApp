@@ -36,7 +36,7 @@ namespace DatabaseSQLMusicApp
                 ImageUrl = "Nothing yet",
                 Description = "Description will go here!"
             };
-            //Lets create another item in the list
+            //Lets create another item in the list.
             Album a2 = new Album
             {
                 ID = 1,
